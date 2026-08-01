@@ -19,7 +19,11 @@ Business Questions Solved
 ✔ Top Products
 
 ✔ Monthly Sales Trend
+
 ✔ Customer Spending
+
 ✔ Region Sales
+
 ✔ Category Profit
+
 ✔ Discount Analysis

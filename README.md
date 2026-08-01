@@ -15,7 +15,9 @@ Objectives
 - Python + SQL Integration
 
 Business Questions Solved
+
 ✔ Top Products
+
 ✔ Monthly Sales Trend
 ✔ Customer Spending
 ✔ Region Sales
